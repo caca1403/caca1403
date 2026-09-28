@@ -36,8 +36,6 @@ I write code directly and use AI-assisted vibe coding as one tool in my workflow
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 <img src="https://img.shields.io/badge/AI_Assisted_Workflow-CODING_&_VIBE_CODING-8B5CF6?style=for-the-badge&logo=sparkles&logoColor=white" alt="AI-assisted workflow alongside hands-on coding">
 
 </div>
