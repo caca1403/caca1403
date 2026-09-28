@@ -1,28 +1,124 @@
+<!-- ═════════════════════ HERO ═════════════════════ -->
+<div align="center">
+
 # Çağatay Çayır
 
-**Data Science student · Web developer**
+### Data Science Student · Web Developer
 
-I build practical web applications and data-driven projects, with a focus on clear, useful experiences.
+**Turning ideas into useful web experiences and data-driven projects.**
 
-[![CinePulse](https://img.shields.io/badge/Featured-CinePulse-6C5CE7?style=for-the-badge)](https://cine-pulse-drab.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](https://github.com/caca1403)
+<a href="https://cine-pulse-drab.vercel.app/"><img src="https://img.shields.io/badge/OPEN_CINEPULSE-Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open CinePulse live demo"></a>
+<a href="https://github.com/caca1403?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"></a>
 
-## Featured projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:7C3AED&height=3" width="100%" alt="Purple divider">
 
-- **[CinePulse](https://github.com/caca1403/cine-pulse)** — Movie and TV discovery project. [Live site](https://cine-pulse-drab.vercel.app/)
-- **[Dizi Öneri Sistemi](https://github.com/caca1403/dizionerisistemi)** — A machine-learning-assisted series recommendation project.
-- **[Sınav Ailesi](https://github.com/caca1403/sinavailesi)** — Education-focused website.
-- **[Aile Danışmanı Emine Demir](https://github.com/caca1403/aile_danismani_emine_demir)** — Portfolio website.
+</div>
 
-## Tools & technologies
+## 👋 About me
 
-`JavaScript` · `TypeScript` · `Python` · `HTML` · `CSS`
+I'm a data science student who enjoys building web products from idea to deployment. I like combining thoughtful interfaces, practical software, and data to solve real problems. My current focus is improving my development skills through hands-on projects.
 
-## Currently
+- 🎓 Studying **Data Science and Analytics**
+- 🎬 Building **CinePulse**, a movie and TV discovery platform
+- 🧠 Exploring **machine learning** through recommendation projects
+- 🌱 Always learning, shipping, and refining
+- 📍 Türkiye
 
-- Studying data science and analytics
-- Building and improving web projects
-- Exploring the intersection of software and data
+## 🧰 Tech stack
 
----
+<div align="center">
 
-*Thanks for stopping by. Feel free to explore my repositories.*
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+
+</div>
+
+## 🚀 Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 CinePulse
+A movie and TV discovery platform built around multiple sources, with portable metadata workflows.
+
+**JavaScript** · **Vercel**
+
+[Repository →](https://github.com/caca1403/cine-pulse) · [Live demo →](https://cine-pulse-drab.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Dizi Öneri Sistemi
+A machine-learning-assisted series recommendation project that explores recommendations from a few selected series or categories.
+
+**TypeScript** · **Machine Learning**
+
+[Explore repository →](https://github.com/caca1403/dizionerisistemi)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Sınav Ailesi
+An education-focused website built to present an integrated learning model.
+
+**HTML** · **Web**
+
+[Explore repository →](https://github.com/caca1403/sinavailesi)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Aile Danışmanı
+A portfolio website for family counselor Emine Demir.
+
+**HTML** · **Web**
+
+[Explore repository →](https://github.com/caca1403/aile_danismani_emine_demir)
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub at a glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=caca1403&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caca1403&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=caca1403&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
+
+</div>
+
+## 🐍 Contribution trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/caca1403/caca1403/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph">
+
+</div>
+
+> The contribution animation is generated by GitHub Actions in this profile repository. Until its first successful run, the image may not appear.
+
+## 🤝 Let’s connect
+
+Interested in web development, data, or collaborating on a useful project? Browse my repositories or reach out through GitHub.
+
+<div align="center">
+
+<a href="https://github.com/caca1403"><img src="https://img.shields.io/badge/GitHub-caca1403-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+<a href="https://cine-pulse-drab.vercel.app/"><img src="https://img.shields.io/badge/CinePulse-Visit_the_app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit CinePulse"></a>
+
+<br><br>
+
+**Thanks for visiting my profile!** ⭐ If something here interests you, take a look at the repositories.
+
+</div>
