@@ -7,10 +7,10 @@
 
 **Turning ideas into useful web experiences and data-driven projects.**
 
-<a href="https://cine-pulse-drab.vercel.app/"><img src="https://img.shields.io/badge/OPEN_CINEPULSE-Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open CinePulse live demo"></a>
-<a href="https://github.com/caca1403?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects"></a>
+<a href="https://cine-pulse-drab.vercel.app/"><img src="https://img.shields.io/badge/▶_CINEPULSE-LIVE_DEMO-6D5DFB?style=for-the-badge&labelColor=111827" alt="Open CinePulse live demo"></a>
+<a href="https://github.com/caca1403?tab=repositories"><img src="https://img.shields.io/badge/⌘_EXPLORE-PROJECTS-263244?style=for-the-badge&labelColor=111827" alt="Explore my projects"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:312E81,100:7C3AED&height=3" width="100%" alt="Purple divider">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,45:3730A3,100:8B5CF6&height=3" width="100%" alt="Purple divider">
 
 </div>
 
@@ -18,11 +18,12 @@
 
 I'm a data science student who enjoys building web products from idea to deployment. I like combining thoughtful interfaces, practical software, and data to solve real problems. My current focus is improving my development skills through hands-on projects.
 
-- 🎓 Studying **Data Science and Analytics**
-- 🎬 Building **CinePulse**, a movie and TV discovery platform
-- 🧠 Exploring **machine learning** through recommendation projects
-- 🌱 Always learning, shipping, and refining
-- 📍 Türkiye
+| | |
+|:--|:--|
+| 🎓 **Learning** | Data Science and Analytics |
+| 🎬 **Building** | [CinePulse](https://cine-pulse-drab.vercel.app/) — movie and TV discovery |
+| 🧠 **Exploring** | Machine-learning-assisted recommendations |
+| 🌍 **Based in** | Türkiye |
 
 ## 🧰 Tech stack
 
@@ -36,7 +37,7 @@ I'm a data science student who enjoys building web products from idea to deploym
 
 </div>
 
-## 🚀 Featured work
+## 🚀 Selected projects
 
 <table>
 <tr>
@@ -85,14 +86,13 @@ A portfolio website for family counselor Emine Demir.
 </tr>
 </table>
 
-## 📊 GitHub at a glance
+## 📈 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=caca1403&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caca1403&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages">
+<img src="https://github-readme-stats.vercel.app/api?username=caca1403&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caca1403&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages">
 
 <img src="https://streak-stats.demolab.com?user=caca1403&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
 
