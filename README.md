@@ -39,6 +39,8 @@ I'm a data science student who enjoys building web products from idea to deploym
 
 ## 🚀 Selected projects
 
+A few things I've built across entertainment, education, and web experiences.
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -54,7 +56,7 @@ A movie and TV discovery platform built around multiple sources, with portable m
 <td width="50%" valign="top">
 
 ### 🧠 Dizi Öneri Sistemi
-A machine-learning-assisted series recommendation project that explores recommendations from a few selected series or categories.
+A machine-learning-assisted series recommendation project that explores recommendations from selected series and categories.
 
 **TypeScript** · **Machine Learning**
 
@@ -66,9 +68,9 @@ A machine-learning-assisted series recommendation project that explores recommen
 <td width="50%" valign="top">
 
 ### 📚 Sınav Ailesi
-An education-focused website built to present an integrated learning model.
+A website introducing an integrated education model for students.
 
-**HTML** · **Web**
+**HTML** · **Education**
 
 [Explore repository →](https://github.com/caca1403/sinavailesi)
 
@@ -78,9 +80,31 @@ An education-focused website built to present an integrated learning model.
 ### 🌿 Aile Danışmanı
 A portfolio website for family counselor Emine Demir.
 
-**HTML** · **Web**
+**HTML** · **Portfolio**
 
 [Explore repository →](https://github.com/caca1403/aile_danismani_emine_demir)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 Özel Demir Web
+An example website for real estate and marketing.
+
+**HTML** · **Web**
+
+[Explore repository →](https://github.com/caca1403/ozeldemirweb)
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More projects
+There's more in progress and more to explore across my repositories.
+
+**More soon** · **Always building**
+
+[Browse all repositories →](https://github.com/caca1403?tab=repositories)
 
 </td>
 </tr>
@@ -88,7 +112,7 @@ A portfolio website for family counselor Emine Demir.
 
 ## 📊 Live GitHub activity
 
-GitHub’s native contribution graph below updates directly from my public activity. Explore the profile repositories for project details and source code.
+GitHub's native contribution graph below updates directly from my public activity. Visit the repositories for project details and source code.
 
 - [All repositories](https://github.com/caca1403?tab=repositories)
 - [CinePulse source](https://github.com/caca1403/cine-pulse) · [Live demo](https://cine-pulse-drab.vercel.app/)
@@ -113,6 +137,6 @@ Interested in web development, data, or collaborating on a useful project? Brows
 
 <br><br>
 
-**Thanks for visiting my profile!** ⭐ If something here interests you, take a look at the repositories.
+**Thanks for visiting my profile!** ⭐
 
 </div>
